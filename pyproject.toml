@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "dl-nlp-courses"
+version = "0.1.0"
+description = ""
+authors = ["vilovnok <vilovnok@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+scikit-learn = "^1.6.1"
+pandas = "^2.2.3"
+nltk = "^3.9.1"
+bs4 = "^0.0.2"
+joblib = "^1.4.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
