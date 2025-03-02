@@ -4,4 +4,4 @@
 
 ## ДЗ
 
-1) **hw_1**: [Первое домашнее задание](https://github.com/vilovnok/itmo_dl_nlpcourses/tree/hw_1)
+1) **hw_1**: [Первое домашнее задание](https://github.com/vilovnok/itmo_dl_nlp_courses/tree/hw_1)
