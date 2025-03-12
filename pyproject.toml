@@ -12,6 +12,9 @@ pandas = "^2.2.3"
 nltk = "^3.9.1"
 bs4 = "^0.0.2"
 joblib = "^1.4.2"
+pymorphy2 = "^0.9.1"
+gensim = "^4.3.3"
+navec = "^0.10.0"
 
 
 [tool.poetry.group.dev.dependencies]
