@@ -5,4 +5,5 @@
 ## ДЗ
 
 1) **hw_1**: [Первое домашнее задание](https://github.com/vilovnok/itmo_dl_nlp_courses/tree/hw_1)
-1) **hw_2**: [Второе домашнее задание](https://github.com/vilovnok/itmo_dl_nlp_courses/tree/hw_2)
+2) **hw_2**: [Второе домашнее задание](https://github.com/vilovnok/itmo_dl_nlp_courses/tree/hw_2)
+3) **hw_3**: [Третье домашнее задание](https://github.com/vilovnok/itmo_dl_nlp_courses/tree/hw_3)
